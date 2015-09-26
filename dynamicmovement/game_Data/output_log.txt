@@ -1,0 +1,44 @@
+Initialize engine version: 5.2.0f3 (e7947df39b5c)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics 3000 (ID=0x126)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Public\Documents\Unity Projects\game ai\game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\game ai\game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\game ai\game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\game ai\game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\game ai\game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\game ai\game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\game ai\game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\game ai\game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\game ai\game_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.057 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Public\Documents\Unity Projects\game ai\game_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 928 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.975266 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 180.
+Total: 0.378875 ms (FindLiveObjects: 0.031230 ms CreateObjectMapping: 0.027532 ms MarkObjects: 0.298333 ms  DeleteObjects: 0.020957 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.740903 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 180.
+Total: 0.403942 ms (FindLiveObjects: 0.030819 ms CreateObjectMapping: 0.023422 ms MarkObjects: 0.325865 ms  DeleteObjects: 0.021779 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.701242 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 189.
+Total: 0.555985 ms (FindLiveObjects: 0.036983 ms CreateObjectMapping: 0.032463 ms MarkObjects: 0.458184 ms  DeleteObjects: 0.025888 ms)
+
